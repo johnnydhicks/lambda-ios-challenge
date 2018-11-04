@@ -9,7 +9,7 @@ Good luck!
 
 ## Name Generator
 
-[image:092A8FB4-3E16-4517-A227-47F2AE793757-4859-00000453BDF3E45B/Screen Shot 2018-11-03 at 8.29.06 PM.png]
+[/AllAboutMeImages/Screen Shot 2018-11-03 at 8.29.06 PM.png]
 
 For the name generator, you will need to set up a view controller with 5 textfields. You will need a textfield for your first name, last name, factor 1, factor 2, and a limit. You will also need to include a button that when tapped will *print out* all of the numbers from 0 to your entered limit, but when the number is divisible by `factor 1`  it should print out the `first name` . When the number is divisible by   `factor 2` it should print out your `last name`  and when it is divisible by `factor 1` and `factor 2` it should print out a combined form of your first and last name. 
 
